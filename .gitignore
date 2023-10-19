@@ -1,0 +1,8 @@
+# Archivos y directorios a ignorar en el repositorio
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+venv/
