@@ -1,0 +1,6 @@
+# Configuración de Drones
+drones:
+  - nombre: DronNumero1
+    modelo: ModeloX1
+  - nombre: DronNumero2
+    modelo: ModeloX2
